@@ -9,7 +9,6 @@ public class Cliente {
     private LocalDate fechaNacimiento;
     private String DNI;
     private Sexo sexo;
-    private MaquinaPeso[] historicoPeso;
     private int altura;
 
     public Cliente(String nombre, String apellidos, LocalDate fechaNacimiento, String DNI, Sexo sexo) {
@@ -18,7 +17,6 @@ public class Cliente {
         this.fechaNacimiento = fechaNacimiento;
         this.DNI = DNI;
         this.sexo = sexo;
-        this.historicoPeso = new MaquinaPeso[10];
     }
 
     public Cliente(String nombre, String apellidos, LocalDate fechaNacimiento, String DNI, Sexo sexo, int altura) {
