@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86b3dd81-d005-4711-b936-88aa79da2539" name="Changes" comment="20241211 v0.0">
-      <change afterPath="$PROJECT_DIR$/src/gimnasio/Sexo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gimnasio/IMC.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/gimnasio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gimnasio/Cliente.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/gimnasio/Gimnasio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gimnasio/Gimnasio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gimnasio/HistoricoPesoClientes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gimnasio/MaquinaPeso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gimnasio/MaquinaPeso.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2q55XGpcZ28WPe8KCQMOQycr6Re" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,6 +43,7 @@
     "Application.Gimnasio.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -70,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733939634269</updated>
       <workItem from="1733939635389" duration="1892000" />
+      <workItem from="1733996262925" duration="3349000" />
     </task>
     <task id="LOCAL-00001" summary="20241211 v0.0">
       <option name="closed" value="true" />

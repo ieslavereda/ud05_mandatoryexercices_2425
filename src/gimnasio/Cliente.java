@@ -3,20 +3,13 @@ package gimnasio;
 
 import java.time.LocalDate;
 
-/**
- * Por tanto, necesitaremos almacenar para un cliente su nombre, apellidos,
- * fecha de nacimiento (de tipo LocalDate), DNI, sexo, peso en kilos (tendrá decimales)
- * y altura en centímetros (sin decimales).
- * Los clientes se pueden dar de alta bien sólo con nombre, apellidos, fecha de nacimiento,
- * DNI y sexo, bien con todos los datos antes facilitados.
- */
 public class Cliente {
     private String nombre;
     private String apellidos;
     private LocalDate fechaNacimiento;
     private String DNI;
     private Sexo sexo;
-    private double peso;
+    private MaquinaPeso[] historicoPeso;
     private int altura;
 
     public Cliente(String nombre, String apellidos, LocalDate fechaNacimiento, String DNI, Sexo sexo) {
@@ -25,11 +18,11 @@ public class Cliente {
         this.fechaNacimiento = fechaNacimiento;
         this.DNI = DNI;
         this.sexo = sexo;
+        this.historicoPeso = new MaquinaPeso[10];
     }
 
-    public Cliente(String nombre, String apellidos, LocalDate fechaNacimiento, String DNI, Sexo sexo, double peso, int altura) {
+    public Cliente(String nombre, String apellidos, LocalDate fechaNacimiento, String DNI, Sexo sexo, int altura) {
         this(nombre, apellidos, fechaNacimiento, DNI, sexo);
-        this.peso = peso;
         this.altura = altura;
     }
 
@@ -53,16 +46,10 @@ public class Cliente {
         return sexo;
     }
 
-    public double getPeso() {
-        return peso;
-    }
+    public MaquinaPeso[] getHistoricoPeso() { return historicoPeso;}
 
     public int getAltura() {
         return altura;
-    }
-
-    public void setPeso(double peso) {
-        this.peso = peso;
     }
 
     public void setAltura(int altura) {
@@ -77,8 +64,15 @@ public class Cliente {
                 ", fechaNacimiento=" + fechaNacimiento +
                 ", DNI='" + DNI + '\'' +
                 ", sexo=" + sexo +
-                ", peso=" + peso +
                 ", altura=" + altura +
                 '}';
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if (obj == null || !(obj instanceof Cliente))
+            return false;
+        Cliente cliente = (Cliente) obj;
+        return this.DNI.equals(cliente.getDNI());
     }
 }
