@@ -12,10 +12,6 @@ public enum IMC {
         this.descripcion = descripcion;
     }
 
-    public String getDescripcion() {
-        return descripcion;
-    }
-
     @Override
     public String toString(){
         return descripcion;
