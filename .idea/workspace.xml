@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86b3dd81-d005-4711-b936-88aa79da2539" name="Changes" comment="20241214 v0.1">
-      <change afterPath="$PROJECT_DIR$/src/bingo/Bombo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bingo/Carton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bingo/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bingo/Jugador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bingo/Bingo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bingo/ConsoleColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bingo/Juego.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bingo/Bola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bingo/Bola.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bingo/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bingo/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bingo/Jugador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bingo/Jugador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,29 +40,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Gimnasio.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Gimnasio.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987" />
+        <option value="jdk-11.0.16-jbr_dcevm-11.0.16-f644763e9732-b5fcc265" />
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-25a4bffe" />
       </set>
     </attachedChunks>
   </component>
@@ -77,6 +80,7 @@
       <workItem from="1733996262925" duration="8548000" />
       <workItem from="1734279206041" duration="14812000" />
       <workItem from="1734330858170" duration="3193000" />
+      <workItem from="1734336403607" duration="1205000" />
     </task>
     <task id="LOCAL-00001" summary="20241211 v0.0">
       <option name="closed" value="true" />

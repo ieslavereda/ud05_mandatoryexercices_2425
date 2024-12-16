@@ -17,12 +17,18 @@ public class Bola {
         return numero;
     }
 
+
     @Override
     public boolean equals(Object obj){
         if(obj==null || !(obj instanceof Bola))
             return false;
         Bola nueva = (Bola) obj;
         return (nueva.getNumero()==this.numero);
+    }
+
+    @Override
+    public String toString(){
+        return color.getColor()+" "+numero+" "+ConsoleColors.RESET;
     }
 
 }
