@@ -10,6 +10,8 @@ public class Bombo {
     private Color color;
 
     public Bombo(int numeroBolas, Color color){
+        this.numeroBolas = numeroBolas;
+        bolas = new Bola[numeroBolas];
         for (int i = 1; i <= numeroBolas ; i++) {
             bolas[i-1] = new Bola(color,i);
         }
@@ -30,7 +32,7 @@ public class Bombo {
     private void barajar(){
         List listaBolas = Arrays.asList(bolas);
         Collections.shuffle(listaBolas);
-        bolas = (Bola[]) listaBolas.toArray();
+        listaBolas.toArray(bolas);
     }
 
 
