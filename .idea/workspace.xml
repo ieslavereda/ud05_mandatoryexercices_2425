@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86b3dd81-d005-4711-b936-88aa79da2539" name="Changes" comment="20241211 v0.0">
-      <change afterPath="$PROJECT_DIR$/src/gimnasio/Peso.java" afterDir="false" />
+    <list default="true" id="86b3dd81-d005-4711-b936-88aa79da2539" name="Changes" comment="20241214 v0.1">
+      <change afterPath="$PROJECT_DIR$/src/bingo/Bombo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bingo/Carton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bingo/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bingo/Jugador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gimnasio/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gimnasio/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gimnasio/Gimnasio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gimnasio/Gimnasio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gimnasio/GrasaCorporal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gimnasio/GrasaCorporal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gimnasio/HistoricoPeso.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gimnasio/IMC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gimnasio/IMC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gimnasio/MaquinaPeso.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gimnasio/Sexo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gimnasio/Sexo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bingo/Bola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bingo/Bola.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +75,8 @@
       <updated>1733939634269</updated>
       <workItem from="1733939635389" duration="1892000" />
       <workItem from="1733996262925" duration="8548000" />
-      <workItem from="1734279206041" duration="14658000" />
+      <workItem from="1734279206041" duration="14812000" />
+      <workItem from="1734330858170" duration="3193000" />
     </task>
     <task id="LOCAL-00001" summary="20241211 v0.0">
       <option name="closed" value="true" />
@@ -104,7 +102,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734006827955</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20241214 v0.1">
+      <option name="closed" value="true" />
+      <created>1734295007929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734295007929</updated>
+    </task>
+    <task id="LOCAL-00005" summary="20241214 v0.1">
+      <option name="closed" value="true" />
+      <created>1734295064737</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734295064737</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20241211 v0.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="20241211 v0.0" />
+    <MESSAGE value="20241214 v0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="20241214 v0.1" />
   </component>
 </project>
