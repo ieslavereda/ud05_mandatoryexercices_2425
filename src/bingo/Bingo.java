@@ -9,6 +9,5 @@ public class Bingo {
         }
         bingo.startGame(Color.VERDE,90,numJugadores);
         bingo.startGame(Color.ROJO,50,2);
-
     }
 }
