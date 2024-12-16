@@ -26,11 +26,17 @@ public class Juego {
             if(bola==null)
                 return null;
             System.out.println("La bola sacada es: " + bola);
+            System.out.println(bombo);
             for (Jugador jugador:jugadores){
                 if(jugador.getCarton().marcarCarton(bola.getNumero())==-1){
                     return jugador;
                 }
                 System.out.println(jugador);
+            }
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
             }
         }
     }

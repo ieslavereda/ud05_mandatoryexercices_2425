@@ -26,6 +26,7 @@ public class Bombo {
             sacada = bolas[0];
             bolas = Arrays.copyOfRange(bolas,1,bolas.length);
         }
+        numeroBolas--;
         return sacada;
     }
 
@@ -35,6 +36,9 @@ public class Bombo {
         listaBolas.toArray(bolas);
     }
 
-
+    @Override
+    public String toString(){
+        return "Quedan " + numeroBolas + " bolas: " + Arrays.toString(bolas) + ConsoleColors.RESET;
+    }
 
 }
