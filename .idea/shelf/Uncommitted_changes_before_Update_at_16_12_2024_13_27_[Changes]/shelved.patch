@@ -1,0 +1,61 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"86b3dd81-d005-4711-b936-88aa79da2539\" name=\"Changes\" comment=\"20241214 v0.1\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/bingo/Bombo.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/bingo/Carton.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/bingo/Color.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/bingo/Jugador.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/bingo/Bola.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/bingo/Bola.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Enum\" />\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 5\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2q55XGpcZ28WPe8KCQMOQycr6Re\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;Application.Gimnasio.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\r\n    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,\r\n    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,\r\n    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"86b3dd81-d005-4711-b936-88aa79da2539\" name=\"Changes\" comment=\"\" />\r\n      <created>1733939634269</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1733939634269</updated>\r\n      <workItem from=\"1733939635389\" duration=\"1892000\" />\r\n      <workItem from=\"1733996262925\" duration=\"8548000\" />\r\n      <workItem from=\"1734279206041\" duration=\"14812000\" />\r\n      <workItem from=\"1734330858170\" duration=\"3193000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"20241211 v0.0\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1733939820109</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1733939820109</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"20241211 v0.0\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1734003559298</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1734003559298</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"20241211 v0.0\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1734006827955</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1734006827955</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"20241214 v0.1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1734295007929</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1734295007929</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"20241214 v0.1\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1734295064737</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1734295064737</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"20241211 v0.0\" />\r\n    <MESSAGE value=\"20241214 v0.1\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"20241214 v0.1\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision a8b04f59841a1c68f4593dd1bb94374cc1a5692e)
++++ b/.idea/workspace.xml	(date 1734335058948)
+@@ -4,13 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="86b3dd81-d005-4711-b936-88aa79da2539" name="Changes" comment="20241214 v0.1">
+-      <change afterPath="$PROJECT_DIR$/src/bingo/Bombo.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/bingo/Carton.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/bingo/Color.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/bingo/Jugador.java" afterDir="false" />
++    <list default="true" id="86b3dd81-d005-4711-b936-88aa79da2539" name="Changes" comment="20241215 v0.2">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/bingo/Bola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bingo/Bola.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -76,7 +71,7 @@
+       <workItem from="1733939635389" duration="1892000" />
+       <workItem from="1733996262925" duration="8548000" />
+       <workItem from="1734279206041" duration="14812000" />
+-      <workItem from="1734330858170" duration="3193000" />
++      <workItem from="1734330858170" duration="3520000" />
+     </task>
+     <task id="LOCAL-00001" summary="20241211 v0.0">
+       <option name="closed" value="true" />
+@@ -118,7 +113,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1734295064737</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="20241215 v0.2">
++      <option name="closed" value="true" />
++      <created>1734335046289</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1734335046289</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -127,6 +130,7 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="20241211 v0.0" />
+     <MESSAGE value="20241214 v0.1" />
+-    <option name="LAST_COMMIT_MESSAGE" value="20241214 v0.1" />
++    <MESSAGE value="20241215 v0.2" />
++    <option name="LAST_COMMIT_MESSAGE" value="20241215 v0.2" />
+   </component>
+ </project>
+\ No newline at end of file

@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86b3dd81-d005-4711-b936-88aa79da2539" name="Changes" comment="20241216 v1.0">
+    <list default="true" id="86b3dd81-d005-4711-b936-88aa79da2539" name="Changes" comment="20241214 v0.1">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_12_2024_9_29__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_12_2024_9_29__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bingo/Bombo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bingo/Bombo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bingo/Bingo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bingo/Bingo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bingo/Juego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bingo/Juego.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,10 +39,10 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Application.Bingo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Gimnasio.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -71,7 +72,10 @@
       <option name="presentableId" value="Default" />
       <updated>1733939634269</updated>
       <workItem from="1733939635389" duration="1892000" />
-      <workItem from="1734342609108" duration="1394000" />
+      <workItem from="1733996262925" duration="8548000" />
+      <workItem from="1734279206041" duration="14812000" />
+      <workItem from="1734330858170" duration="3193000" />
+      <workItem from="1734416859315" duration="1606000" />
     </task>
     <task id="LOCAL-00001" summary="20241211 v0.0">
       <option name="closed" value="true" />
@@ -81,23 +85,39 @@
       <option name="project" value="LOCAL" />
       <updated>1733939820109</updated>
     </task>
-    <task id="LOCAL-00002" summary="20241216 v1.0">
+    <task id="LOCAL-00002" summary="20241211 v0.0">
       <option name="closed" value="true" />
-      <created>1734341367571</created>
+      <created>1734003559298</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1734341367571</updated>
+      <updated>1734003559298</updated>
     </task>
-    <task id="LOCAL-00003" summary="20241216 v1.0">
+    <task id="LOCAL-00003" summary="20241211 v0.0">
       <option name="closed" value="true" />
-      <created>1734341406162</created>
+      <created>1734006827955</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1734341406162</updated>
+      <updated>1734006827955</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20241214 v0.1">
+      <option name="closed" value="true" />
+      <created>1734295007929</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734295007929</updated>
+    </task>
+    <task id="LOCAL-00005" summary="20241214 v0.1">
+      <option name="closed" value="true" />
+      <created>1734295064737</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734295064737</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,7 +125,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20241211 v0.0" />
-    <MESSAGE value="20241216 v1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="20241216 v1.0" />
+    <MESSAGE value="20241214 v0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="20241214 v0.1" />
   </component>
 </project>
